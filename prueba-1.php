@@ -5,9 +5,15 @@
  * Date: 06/05/2015
  * Time: 11:42
  */
-echo 'casa. <br/><br/>';
+fdsjakljdsfkljdfas
 
 
-$perro = 'Lobo';
+kljdsfakljsdkflajlkdfs
 
-echo $perro;
+
+jdsklfjkldsfajkljdsfkldfjs
+
+
+
+
+kjdskljkldsfjkldsfjkldsfjkljdfskljdsfkljsfd
