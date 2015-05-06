@@ -8,6 +8,6 @@
 echo 'casa. <br/><br/>';
 
 
-$perro = 'jkasdfljkldfjlkdfsa';
+$perro = 'Lobo';
 
 echo $perro;
