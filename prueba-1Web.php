@@ -26,6 +26,11 @@ echo $perro;
 
 
 <div class="caja"><?php echo $perro; ?></div>
+<br/>
+<div class="caja"><?php echo 'casa'; ?></div>
+
+
+
 
 
 </body>
