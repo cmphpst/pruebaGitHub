@@ -5,6 +5,9 @@
  * Date: 06/05/2015
  * Time: 11:42
  */
-echo 'casa';
+echo 'casa. <br/><br/>';
+
 
 $perro = 'jkasdfljkldfjlkdfsa';
+
+echo $perro;
