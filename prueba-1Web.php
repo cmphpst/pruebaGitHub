@@ -8,22 +8,8 @@
 <body>
 100  1OOOO
 
-<?php
-/**
- * Created by PhpStorm.
- * User: cmi5
- * Date: 06/05/2015
- * Time: 11:42
- */
-echo 'casa. <br/><br/>';
 
-
-$perro = 'Lobo';
-
-echo $perro;
-
-?>
-
+<?php $perro = 'Lobo';?>
 
 <div class="caja"><?php echo $perro; ?></div>
 <br/>
